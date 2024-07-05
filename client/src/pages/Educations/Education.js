@@ -28,7 +28,7 @@ const Education = () => {
               NIT Patna,Bihar
             </h4>
             <h5 className="vertical-timeline-element-subtitle">
-              Marks:8.42 C.G.P.A (Till 5th Sem)
+              Marks:8.57 C.G.P.A (Till 6th Sem)
             </h5>
           </VerticalTimelineElement>
           <VerticalTimelineElement
