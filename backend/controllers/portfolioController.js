@@ -27,7 +27,7 @@ const sendEmailController = (req, res) => {
     if (!name || !email || !msg) {
       return res.status(500).send({
         success: false,
-        message: "Please Provide All Fields",
+        message: "Please provide All Fields",
       });
     }
     //email matter
