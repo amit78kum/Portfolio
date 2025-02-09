@@ -11,11 +11,7 @@ const Projects = () => {
         </h2>
         <hr />
         <p className="pb-3 text-center">
-          Lorem ipsum dolorhgguyg sit, amet consectetur adipisicing elit. Officia a
-          odit ab, eligendi cupiditate, minima quasi excepturi modi et quo
-          delectus, iusto dolor atque aliquam aspernatur eveniet! Ipsam eum
-          nobis omnis id voluptatibus quas eos maxime ipsum facere numquam,
-          voluptate qui et animi doloribus nulla eius molestiae unde tempore ad
+        Full-stack development with React.js and Node.js enables building dynamic web applications. React.js handles interactive UIs, while Node.js manages server-side logic. Express.js simplifies backend development, and MongoDB ensures efficient data storage. This MERN stack provides scalability, flexibility, and seamless integration, making it ideal for modern, high-performance web applications.
         </p>
         {/* card design */}
         <div className="row" id="ads">
